@@ -1,7 +1,3 @@
-<img alt="Banner" style="border-radius:20px ;" src="https://media.licdn.com/dms/image/D4D16AQEFki3FdIzXpw/profile-displaybackgroundimage-shrink_350_1400/0/1693635439562?e=1698883200&v=beta&t=owbHZx0gnsjpjEuc8JXFrBjJ7Y6SMbZcwVssKBOBAww">
-
-
-
 <h1 align="center">Hi 👋, I'm Hamza Naseem</h1>
 <h3 align="center">Full-Stack Developer | Learning AI/ML | Freelancer | Speaker | Teacher.</h3>
 
