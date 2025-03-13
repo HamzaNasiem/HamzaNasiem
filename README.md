@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-ziaee.pk@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
----
+
 
 ### 🚀 About Me
 
@@ -36,20 +36,6 @@ Let’s build the future! 💡
 - Developing **high-performance APIs** for AI systems  
 - Building **cloud-native AI apps** on Azure  
 - Exploring **FastAPI**, **Docker**, and **LLMs** for scalable solutions  
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-</p>
 
 ---
 
