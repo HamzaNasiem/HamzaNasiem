@@ -43,7 +43,6 @@ Let’s build the future! 💡
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzanasiem&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanasiem&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
