@@ -127,3 +127,8 @@ I am an **AI Specialist** and **Full-Stack Developer** focused on the bleeding e
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HamzaNasiem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=footer&text=Let%27s%20Collaborate!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Open%20for%20GSoC%202026%20and%20AI%20Projects&descAlignY=60&descAlign=50" width="100%" alt="Footer" />
+</div>
