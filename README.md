@@ -132,5 +132,6 @@ I am an **AI Specialist** and **Full-Stack Developer** focused on the bleeding e
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=footer&text=Let%27s%20Collaborate!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Open%20for%20GSoC%202026%20and%20AI%20Projects&descAlignY=60&descAlign=50" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=footer&text=Let%27s%20Collaborate!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Open%20for%20GSoC%202026%20and%20AI%20Projects&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Footer" />
 </div>
+
