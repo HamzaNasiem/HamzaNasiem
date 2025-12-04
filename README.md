@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Hamza;Agentic+AI+%26+GenAI+Engineer;Stanford+Code-in-Place+Leader;Building+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Hamza;Agentic+AI+%26+GenAI+Engineer;Stanford+Code-in-Place+Leader;Building+Autonomous+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -78,32 +78,44 @@ I am an **AI Specialist** and **Full-Stack Developer** focused on the bleeding e
 
 ---
 
+### 🔭 **Open Source Journey**
+
+<table>
+  <tr>
+    <td width="15%" align="center">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" width="85" alt="GSoC Logo" />
+    </td>
+    <td width="85%">
+      <h3>🚀 GSoC 2026 Aspirant</h3>
+      I am actively preparing for <b>Google Summer of Code 2026</b>. My goal is to contribute to organizations focusing on <b>Agentic AI</b> and <b>Cloud Native</b> tools.
+      <br><br>
+      <i>Currently exploring codebases and refining skills... ⏳</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📈 **Coding Activity & Stats**
 
 <div align="center">
-  <img src="https://github.com/HamzaNasiem/HamzaNasiem/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/HamzaNasiem/HamzaNasiem/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br>
 
+### 📈 Coding Consistency
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=HamzaNasiem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNasiem&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaNasiem&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
----
+
+
+### 🏆 **Global Achievements**
 
 <div align="center">
 
-### 🏆 **Global Achievements**
 | **Stanford University** | **MIT & Berkeley** | **Harvard** |
 | :---: | :---: | :---: |
 | Code in Place **Section Leader** 👨‍🏫 | Hackathon **Finalist** 🚀 | CS50x Puzzle Day **Solver** 🧩 |
