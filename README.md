@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Hamza;Agentic+AI+%26+GenAI+Engineer;Stanford+Code-in-Place+Leader;Building+Autonomous+Systems&duration=2500" alt="Typing SVG" />
 </div>
 
@@ -134,4 +134,98 @@ I am an **AI Specialist** and **Full-Stack Developer** focused on the bleeding e
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=footer&text=Let%27s%20Collaborate!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Open%20for%20GSoC%202026%20and%20AI%20Projects&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Footer" />
 </div>
+ -->
+
+
+
+
+
+<div align="center">
+
+# Hamza Naseem
+
+**AI Voice Agent Engineer · Co-Founder @ Bytelytic · Stanford Code in Place SL 2026**
+
+[![Portfolio](https://img.shields.io/badge/imhamza.com-000000?style=flat-square&logo=safari&logoColor=white)](https://imhamza.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzanasiem)
+[![Email](https://img.shields.io/badge/ziaee.pk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ziaee.pk@gmail.com)
+
+</div>
+
+---
+
+I build AI systems for problems that shouldn't need a human in the loop.
+
+Right now that's **voice AI** — receptionists that answer clinic calls, book appointments, and follow up with patients 24/7 without human intervention. Before I wrote code, I spent 8 years studying classical Islamic logic and Ibn Sina's syllogistic frameworks. That background shapes how I think about AI reliability: I don't build systems that work *most* of the time.
+
+- 🏢 Co-Founder at **[Bytelytic](https://bytelytic.com)** — AI automation agency serving US & UK clients
+- 🎓 Section Leader at **Stanford University** — Code in Place 2026
+- 📄 Published research: **LogicGuard** — 100% precision, zero false positives, neuro-symbolic LLM validator
+- 🏆 Google DeepMind Gemini 3 Hackathon — PulseScriptAI
+
+---
+
+## Projects
+
+### [Bytelytic Clinic OS](https://github.com/HamzaNasiem/bytelytic-clinic-os)
+Full SaaS platform for healthcare clinics. AI voice agent handles inbound calls, books appointments, sends SMS confirmations, and runs outbound patient recall — 24/7, no receptionist required.
+
+`Retell AI` `FastAPI` `PostgreSQL` `Twilio` `React` `Docker` `Railway`
+
+---
+
+### [LogicGuard](https://github.com/HamzaNasiem/LogicGuard)
+Neuro-symbolic middleware that deterministically intercepts structural hallucinations in LLMs. Built on Ibn Sina's syllogistic framework implemented as a BFS graph validator. Evaluated on LLaMA2-7B, Mistral-7B, LLaMA3.2-3B.
+
+**100% precision · Zero false positives · Published on Zenodo**
+
+`Python` `NetworkX` `LangChain` `Neuro-Symbolic AI`
+
+[📄 Read the paper](https://zenodo.org/records/18745460) · [Read artical](https://hamza-naseem.medium.com/debugging-the-black-box-a-classical-logic-perspective-on-neuro-symbolic-ai-ac18deec7ea6)
+
+---
+
+### [Nexus — Multi-Agent Orchestrator](https://github.com/HamzaNasiem/nexus-ai-orchestrator)
+Enterprise-grade multi-agent framework with autonomous workflow planning, agent handoffs, and real-time execution. Built for scale.
+
+`LangGraph` `FastAPI` `Next.js` `OpenAI Agents SDK`
+
+---
+
+### [DocuMind — RAG Engine](https://github.com/HamzaNasiem/documind-rag)
+Scalable Retrieval-Augmented Generation pipeline with distributed Qdrant vector DB and async Redis workers.
+
+`FastAPI` `Qdrant` `Redis` `LangChain` `Docker`
+
+---
+
+## Stack
+
+```
+Voice AI    Retell AI · Vapi · Twilio
+LLMs        OpenAI SDK · LangChain · LangGraph · OpenRouter
+Backend     FastAPI · Python · PostgreSQL · Redis
+Frontend    Next.js · React
+DevOps      Docker · Railway · GitHub Actions
+```
+
+---
+
+## Recognition
+
+| | |
+|---|---|
+| **Stanford University** | Section Leader — Code in Place 2026 |
+| **Zenodo** | Published — LogicGuard: Deterministic LLM Verification |
+| **Google DeepMind** | Gemini 3 Global Hackathon — PulseScriptAI |
+| **PIAIC** | Agentic AI Developer Certification |
+
+---
+
+<div align="center">
+
+*Building things that work — not just things that demo well.*
+
+</div>
+
 
