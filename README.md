@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="hamzanasiem's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Hamza;Agentic+AI+%26+GenAI+Engineer;Stanford+Code-in-Place+Leader;Building+Autonomous+Systems&duration=2500" alt="Typing SVG" />
 </div>
